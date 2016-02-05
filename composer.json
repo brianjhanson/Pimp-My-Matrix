@@ -1,0 +1,16 @@
+{
+  "name": "supercool/pimpmymatrix",
+  "description": "A plugin for Craft that lets you enhance a busy Matrix field and organise block types http://plugins.supercooldesign.co.uk/plugin/pimp-my-matrix",
+  "homepage": "http://plugins.supercooldesign.co.uk/plugin/pimp-my-matrix",
+  "type": "craft-plugin",
+  "keywords": ["craft","plugin"],
+  "license": "MIT",
+  "authors": [{
+    "name": "Supercool",
+    "email": "dev@supercooldesign.co.uk",
+    "homepage": "http://www.supercooldesign.co.uk/"
+  }],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
